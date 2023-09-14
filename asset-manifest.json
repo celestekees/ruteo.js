@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ruteo.js/static/css/main.584befa1.css",
-    "main.js": "/ruteo.js/static/js/main.b5639bb0.js",
+    "main.js": "/ruteo.js/static/js/main.35469e41.js",
     "static/js/787.a3b7d8fb.chunk.js": "/ruteo.js/static/js/787.a3b7d8fb.chunk.js",
     "index.html": "/ruteo.js/index.html",
     "main.584befa1.css.map": "/ruteo.js/static/css/main.584befa1.css.map",
-    "main.b5639bb0.js.map": "/ruteo.js/static/js/main.b5639bb0.js.map",
+    "main.35469e41.js.map": "/ruteo.js/static/js/main.35469e41.js.map",
     "787.a3b7d8fb.chunk.js.map": "/ruteo.js/static/js/787.a3b7d8fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.584befa1.css",
-    "static/js/main.b5639bb0.js"
+    "static/js/main.35469e41.js"
   ]
 }
